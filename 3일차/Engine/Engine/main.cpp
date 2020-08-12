@@ -6,12 +6,10 @@
 INT WINAPI WinMain(HINSTANCE hinstance, HINSTANCE hPrevinstance, LPSTR, INT cmdShow) {
 	srand(GetTickCount());
 
-	Console console;
+
 	Application app;
 
-	if (CONSOLE_OFF) {
-		console.CloseConsole();
-	}
+	std::cout << "¾È³ç";
 
 	app.InitWindow(hinstance);
 	app.InitD3D(app.FloatWindow(hinstance, cmdShow));
