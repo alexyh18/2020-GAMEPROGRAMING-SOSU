@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  Animation.cpp
+  Application.cpp
+  Console.cpp
+  GameScene.cpp
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\GameScene.cpp(49,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\GameScene.cpp(57,21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InputManager.cpp
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\InputManager.cpp(38,27): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\InputManager.cpp(38,22): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  MainScene.cpp
+  Object.cpp
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(48,15): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(49,16): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(50,14): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(51,17): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(58,8): error C2561: 'Object::IsCollisionRect': 함수는 값을 반환해야 합니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(45): message : 'Object::IsCollisionRect' 선언을 참조하십시오.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(75,12): warning C4244: 'return': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(78,12): warning C4244: 'return': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(84,10): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020-GAMEPROGRAMING-SOSU\4일차\xngin\xngin\Object.cpp(85,10): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  SceneManager.cpp
+  SoundManager.cpp
+  Sprite.cpp
+  TextureManager.cpp
